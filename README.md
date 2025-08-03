@@ -94,16 +94,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisha-sagar&show_icons=true&theme=radical&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alisha-sagar&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-sagar&layout=compact&theme=radical" />
-</p>
+🎯 **GitHub Stats**
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Alisha-sagar&show_icons=true&theme=tokyonight&rank_icon=percentile&hide=contribs&border_radius=10" width="47%" />
+
+🔥 **Contribution Streak**
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Alisha-sagar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="47%" />
+
+🧠 **Top Languages Used**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-sagar&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" width="60%" />
+
+</div>
 
 ---
 
