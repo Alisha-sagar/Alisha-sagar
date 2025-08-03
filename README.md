@@ -31,18 +31,16 @@
 ---
 ## 🏆 Achievements & Certifications
 
-| Badge | Title | Description |
-|-------|-------|-------------|
-| 🎓 | [Google Cloud Fundamentals](https://www.cloudskillsboost.google/) | Cloud concepts, compute, storage, databases, and networking |
-| 🧠 | Web3 Pe Charcha | Participated in Web3 Tech Dialogue at **Microsoft Office, Gurgaon (2025)** |
-| 🚀 | [Smart India Hackathon (SIH)](https://www.sih.gov.in/) | National-level innovation competition with real-world problems |
-| 🤖 | Arduino Workshop & Hackathon – CAIE | Built smart prototypes with sensors & controllers |
-| 🛡️ | Ethical Hacking Workshop – [IIT Delhi](https://home.iitd.ac.in/) | Learned cyber security basics and ethical penetration testing |
-| 📊 | AI4E Summer Workshop | Explored AI applications and tools for beginners |
-| 💻 | Advanced Computer Course | Skills Development Centre – Basics to intermediate computing |
-| 📅 | [100 Days of Code Challenge](https://www.100daysofcode.com/) | Committed to daily coding and public progress updates |
-| 💬 | GitHub OSS Contributor | Contributed to [open-source projects](https://github.com/Alisha-sagar) and collaborated on features |
-
+| Achievement | Description |
+|------------|-------------|
+| 🧠 **Web3 Pe Charcha** @ Microsoft, Gurgaon | Participated in exclusive Web3 event (2025) |
+| 🚀 **Smart India Hackathon (SIH)** | National-level hackathon participant – innovation under pressure |
+| 🤖 [Arduino Workshop & Hackathon (CAIE)](#) | Explored embedded systems and real-time project building |
+| 🛡️ [Ethical Hacking Workshop – IIT Delhi](#) | Learned ethical hacking practices and cybersecurity essentials |
+| 📊 [AI4E Summer Workshop](#) | AI for Everyone – hands-on ML exploration |
+| 💻 [Advanced Computer Course – Agra](#) | Skill development in core computer science concepts |
+| 📅 **100 Days of Code Challenge** | Built consistency through 100 days of development practice |
+| 💬 **Open Source Contributor** | Contributed actively to collaborative codebases on GitHub |
 
 ---
 ## 📂 Featured Projects
