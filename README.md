@@ -24,9 +24,26 @@
 
 ## 🛠️ Tech Stack & Tools
 
+### 👩‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css,react,nodejs,express,nextjs,mongodb,mysql,tailwind,docker,firebase,git,github,vscode,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css&perline=7" />
 </p>
+
+### 🧰 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind&perline=6" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=5" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&perline=6" />
+</p>
+
 
 ---
 ## 🏆 Achievements & Certifications
