@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Alisha Sagar</h1>
+<h3 align="center">A Passionate Developer, Curious Learner, and Creative Thinker</h3>
 
-<!--
-**Alisha-sagar/Alisha-sagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love writing clean, efficient code and bringing ideas to life through software.
+- 🎯 Currently sharpening my skills in **[insert current learning path, e.g., Web Dev, DSA, AI/ML]**
+- 🔍 I enjoy exploring new tech and open source projects.
+- 🌍 Strong believer in **learning by building and collaborating**.
+
+---
+
+🛠️ **Tech Stack**
+
+```yaml
+Languages:   Python, JavaScript, C++, Java
+Frameworks:  React, Node.js, Express, Flask
+Tools:       Git, VS Code, Postman, Docker
+Database:    MongoDB, MySQL
+Others:      Firebase, Tailwind CSS, APIs
