@@ -1,7 +1,7 @@
-<!-- Profile README for Alisha Sagar -->
+<!-- Enhanced GitHub Profile README for Alisha Sagar -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=AD71F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Alisha+Sagar;Full-Stack+Developer+%7C+Engineer+%7C+Lifelong+Learner;I+Love+Creating+Clean+%26+Scalable+Apps;Welcome+to+My+GitHub+Universe!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=AD71F3&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Alisha+Sagar;Full-Stack+Developer+%7C+Engineer+%7C+Lifelong+Learner;I+Love+Creating+Clean+%26+Scalable+Apps;Welcome+to+My+GitHub+Universe!" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -15,103 +15,63 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **full-stack applications**, **auth systems**, and **AI/ML projects**
-- 🌱 Actively exploring **DevOps**, **Next.js**, and **data engineering**
-- 💡 I enjoy solving real-world problems through technology
-- ✍️ I sometimes share thoughts and code on blogs
-- 🎯 Goal: Collaborate on impactful open-source and community-driven projects
+- 🌱 Exploring **DevOps**, **Next.js**, and **data engineering**
+- 💡 Love solving real-world problems through tech
+- ✍️ Occasionally write blogs & share learnings
+- 🤝 Open to collaborations on open-source & impactful projects
+- 🎯 Goal: Build meaningful software that helps others
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 
-### 👩‍💻 Languages
+### 💬 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css&perline=7" />
 </p>
 
-### 🧰 Frameworks & Libraries
+### 🧪 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,tailwind&perline=6" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Hosting
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=5" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🧩 Dev Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&perline=6" />
 </p>
 
-
 ---
+
 ## 🏆 Achievements & Certifications
 
-- 🧠 **[Web3 Pe Charcha – Microsoft Office, Gurgaon (2025)](https://www.linkedin.com/in/alisha-sagar-3b4052302/recent-activity/all/)**  
-  *An exclusive Web3 tech talk & networking event hosted by Microsoft.*
-
-- 🛡️ **[Ethical Hacking Workshop – IIT Delhi](https://drive.google.com/file/d/1ONNyo63kCfDliCdW6977wTHDZyLwSTl8/view)**  
-  *Hands-on exposure to penetration testing, vulnerabilities & cybersecurity tools.*
-
-- 🚀 **[Smart India Hackathon (SIH)](https://drive.google.com/file/d/1t5CTNS4WgkLdj9FG5qeb6kcSiUmcLeuo/view)**  
-  *Participated in a national-level hackathon solving real-world problems.*
-
-- 🤖 **[Arduino Workshop & Hackathon – CAIE](https://drive.google.com/file/d/1xY-o8LOEgjNQ6Blypum7_eYMKMBhb8bc/view)**  
-  *Built real-time embedded systems & learned basics of IoT hardware.*
-
-- 💻 **[Advanced Computer Course – Skills Development Centre, Agra](https://drive.google.com/file/d/1ONbRWSOe8Tm55KH8OKD6cmvr6B2EbUt1/view)**  
-  *Trained in core computing skills – Windows, Office, Web Basics.*
-
-- 📅 **100 Days of Code Challenge**  
-  *Built projects and improved coding consistency over 100 days.*
-
-- 💬 **Open Source Contributor**  
-  *Contributed to collaborative repositories on GitHub.*
-
----
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Alisha-sagar/Ingredient-Insights">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=Ingredient-Insights&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Alisha-sagar/SeedhaBazaar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=SeedhaBazaar&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Alisha-sagar/Railway_FileManagment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=Railway_FileManagment&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Alisha-sagar/Netflix-LandingPage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=Netflix-LandingPage&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Alisha-sagar/janshayak">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=janshayak&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <!-- You can add a 6th project here or leave it empty -->
-    </td>
-  </tr>
-</table>
+- 🧠 [Web3 Pe Charcha – Microsoft Gurgaon](https://www.linkedin.com/in/alisha-sagar-3b4052302/recent-activity/all/)
+- 🛡️ [Ethical Hacking – IIT Delhi](https://drive.google.com/file/d/1ONNyo63kCfDliCdW6977wTHDZyLwSTl8/view)
+- 🚀 [Smart India Hackathon (SIH)](https://drive.google.com/file/d/1t5CTNS4WgkLdj9FG5qeb6kcSiUmcLeuo/view)
+- 🤖 [Arduino Workshop & Hackathon – CAIE](https://drive.google.com/file/d/1xY-o8LOEgjNQ6Blypum7_eYMKMBhb8bc/view)
+- 💻 [Advanced Computer Course – Skills Dev. Agra](https://drive.google.com/file/d/1ONbRWSOe8Tm55KH8OKD6cmvr6B2EbUt1/view)
+- 📅 **100 Days of Code** – Improved consistency
+- 💬 Open Source Contributor
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=Ingredient-Insights&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=SeedhaBazaar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=Railway_FileManagment&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=Netflix-LandingPage&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=janshayak&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alisha-sagar&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="45%" />
@@ -122,13 +82,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-sagar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alisha-sagar&theme=onestar&margin-w=10&no-frame=true&row=1" />
+</p>
+
 ---
 
-## 🧠 Fun Dev Quote
+## 🎯 Fun Dev Quotes
 
 > _“First, solve the problem. Then, write the code.”_ — John Johnson  
->  
-> _"Strive for progress, not perfection."_ ✨
+> _“Strive for progress, not perfection.”_ ✨  
+> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -136,7 +100,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alisha-sagar/" target="_blank">
@@ -148,11 +112,14 @@
   <a href="https://alisha-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">Thanks for stopping by! ✨</h3>
+<h3 align="center">Thanks for visiting my space! 🌌</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100" />
 </p>
