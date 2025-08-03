@@ -29,7 +29,21 @@
 </p>
 
 ---
+## 🏆 Achievements & Certifications
 
+- 🥇 Winner, XYZ Hackathon 2024 – *AI for Good*
+- 🎓 Certification: **Google Cloud Fundamentals**
+- 🧠 Participated in **Web3 Pe Charcha** – Microsoft Office, Gurgaon *(2025)*
+- 🚀 **Smart India Hackathon (SIH)** – Participated in a national-level hackathon
+- 🤖 **Arduino Workshop & Hackathon** – Centre for AI & Emerging Tech (CAIE)
+- 🛡️ **Ethical Hacking Workshop** – IIT Delhi
+- 📊 **AI4E Summer Workshop** – Focused on AI for Everyone
+- 💻 **Advanced Computer Course** – Skills Development Centre, Agra
+- 📅 Completed: **100 Days of Code Challenge**
+- 💬 Contributed to **open-source** projects on GitHub
+
+
+---
 ## 📂 Featured Projects
 
 <table>
