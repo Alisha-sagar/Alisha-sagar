@@ -31,16 +31,29 @@
 ---
 ## 🏆 Achievements & Certifications
 
-| Achievement | Description |
-|------------|-------------|
-| 🧠 **Web3 Pe Charcha** @ Microsoft, Gurgaon | Participated in exclusive Web3 event (2025) |
-| 🚀 **Smart India Hackathon (SIH)** | National-level hackathon participant – innovation under pressure |
-| 🤖 [Arduino Workshop & Hackathon (CAIE)](#) | Explored embedded systems and real-time project building |
-| 🛡️ [Ethical Hacking Workshop – IIT Delhi](#) | Learned ethical hacking practices and cybersecurity essentials |
-| 📊 [AI4E Summer Workshop](#) | AI for Everyone – hands-on ML exploration |
-| 💻 [Advanced Computer Course – Agra](#) | Skill development in core computer science concepts |
-| 📅 **100 Days of Code Challenge** | Built consistency through 100 days of development practice |
-| 💬 **Open Source Contributor** | Contributed actively to collaborative codebases on GitHub |
+- 🧠 **Web3 Pe Charcha** – Microsoft Office, Gurgaon *(2025)*  
+  <img src="https://img.shields.io/badge/Web3-Event-purple?style=flat-square&logo=ethereum" />
+
+- 🚀 **Smart India Hackathon (SIH)** – National-Level Participant  
+  <img src="https://img.shields.io/badge/Hackathon-Innovation-orange?style=flat-square&logo=hackclub" />
+
+- 🤖 **[Arduino Workshop & Hackathon (CAIE)](#)**  
+  <img src="https://img.shields.io/badge/Arduino-Hands%20On-00ccff?style=flat-square&logo=arduino" />
+
+- 🛡️ **[Ethical Hacking Workshop – IIT Delhi](#)**  
+  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red?style=flat-square&logo=linux" />
+
+- 📊 **[AI4E Summer Workshop](#)**  
+  <img src="https://img.shields.io/badge/AI-Workshop-lightgrey?style=flat-square&logo=openai" />
+
+- 💻 **[Advanced Computer Course – Agra](#)**  
+  <img src="https://img.shields.io/badge/IT-Skills-blue?style=flat-square&logo=windows" />
+
+- 📅 **100 Days of Code Challenge**  
+  <img src="https://img.shields.io/badge/Challenge-100DaysOfCode-black?style=flat-square&logo=github" />
+
+- 💬 **Open Source Contributor**  
+  <img src="https://img.shields.io/badge/Contributions-GitHub-green?style=flat-square&logo=github" />
 
 ---
 ## 📂 Featured Projects
