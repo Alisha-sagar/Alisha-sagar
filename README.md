@@ -31,22 +31,26 @@
 ---
 ## 🏆 Achievements & Certifications
 
-- 🧠 **Web3 Pe Charcha** – Microsoft Office, Gurgaon *(2025)*  
-  <img src="https://img.shields.io/badge/Web3-Event-purple?style=flat-square&logo=ethereum" />
-- 🚀 **Smart India Hackathon (SIH)** – National-Level Participant  
-  <img src="https://img.shields.io/badge/Hackathon-Innovation-orange?style=flat-square&logo=hackclub" />
-- 🤖 **[Arduino Workshop & Hackathon (CAIE)]**  
-  <img src="https://img.shields.io/badge/Arduino-Hands%20On-00ccff?style=flat-square&logo=arduino" />
-- 🛡️ **[Ethical Hacking Workshop – IIT Delhi]**  
-  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red?style=flat-square&logo=linux" />
-- 📊 **[AI4E Summer Workshop]**  
-  <img src="https://img.shields.io/badge/AI-Workshop-lightgrey?style=flat-square&logo=openai" />
-- 💻 **[Advanced Computer Course – Agra]**  
-  <img src="https://img.shields.io/badge/IT-Skills-blue?style=flat-square&logo=windows" />
+- 🧠 **[Web3 Pe Charcha – Microsoft Office, Gurgaon (2025)](https://www.linkedin.com/in/alisha-sagar-3b4052302/recent-activity/all/)**  
+  *An exclusive Web3 tech talk & networking event hosted by Microsoft.*
+
+- 🛡️ **[Ethical Hacking Workshop – IIT Delhi](https://drive.google.com/file/d/1ONNyo63kCfDliCdW6977wTHDZyLwSTl8/view)**  
+  *Hands-on exposure to penetration testing, vulnerabilities & cybersecurity tools.*
+
+- 🚀 **[Smart India Hackathon (SIH)](https://drive.google.com/file/d/1t5CTNS4WgkLdj9FG5qeb6kcSiUmcLeuo/view)**  
+  *Participated in a national-level hackathon solving real-world problems.*
+
+- 🤖 **[Arduino Workshop & Hackathon – CAIE](https://drive.google.com/file/d/1xY-o8LOEgjNQ6Blypum7_eYMKMBhb8bc/view)**  
+  *Built real-time embedded systems & learned basics of IoT hardware.*
+
+- 💻 **[Advanced Computer Course – Skills Development Centre, Agra](https://drive.google.com/file/d/1ONbRWSOe8Tm55KH8OKD6cmvr6B2EbUt1/view)**  
+  *Trained in core computing skills – Windows, Office, Web Basics.*
+
 - 📅 **100 Days of Code Challenge**  
-  <img src="https://img.shields.io/badge/Challenge-100DaysOfCode-black?style=flat-square&logo=github" />
+  *Built projects and improved coding consistency over 100 days.*
+
 - 💬 **Open Source Contributor**  
-  <img src="https://img.shields.io/badge/Contributions-GitHub-green?style=flat-square&logo=github" />
+  *Contributed to collaborative repositories on GitHub.*
 
 ---
 ## 📂 Featured Projects
