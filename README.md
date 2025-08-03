@@ -1,7 +1,13 @@
 <!-- Profile README for Alisha Sagar -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=F76B8A&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Alisha+Sagar;Full-Stack+Developer+from+India;Creative+Thinker+and+Problem+Solver;Passionate+about+Web+3.0+and+Open+Source;Let’s+Build+Something+Awesome+Together!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=AD71F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Alisha+Sagar;Full-Stack+Developer+%7C+Engineer+%7C+Lifelong+Learner;I+Love+Creating+Clean+%26+Scalable+Apps;Welcome+to+My+GitHub+Universe!" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alisha-sagar&label=Profile%20Views&color=ff69b4&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Alisha-sagar?style=social" />
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-purple?logo=markdown&style=flat-square" />
 </p>
 
 ---
