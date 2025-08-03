@@ -1,6 +1,3 @@
-# Save the complete README content into a markdown (.md) file
-
-readme_content = """
 <!-- Profile README for Alisha Sagar -->
 
 <p align="center">
@@ -19,8 +16,8 @@ readme_content = """
 
 - 🔭 Currently working on **full-stack applications**, **auth systems**, and **AI/ML projects**
 - 🌱 Actively exploring **DevOps**, **Next.js**, and **data engineering**
-- 💡 I enjoy building real-world solutions through technology
-- ✍️ I occasionally share thoughts and code through blogs
+- 💡 I enjoy solving real-world problems through technology
+- ✍️ I sometimes share thoughts and code on blogs
 - 🎯 Goal: Collaborate on impactful open-source and community-driven projects
 
 ---
@@ -47,8 +44,8 @@ readme_content = """
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&perline=6" />
 </p>
 
----
 
+---
 ## 🏆 Achievements & Certifications
 
 - 🧠 **[Web3 Pe Charcha – Microsoft Office, Gurgaon (2025)](https://www.linkedin.com/in/alisha-sagar-3b4052302/recent-activity/all/)**  
@@ -73,15 +70,6 @@ readme_content = """
   *Contributed to collaborative repositories on GitHub.*
 
 ---
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alisha-sagar&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 <table>
@@ -115,7 +103,9 @@ readme_content = """
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-sagar&repo=janshayak&theme=tokyonight" />
       </a>
     </td>
-    <td align="center" width="50%"></td>
+    <td align="center" width="50%">
+      <!-- You can add a 6th project here or leave it empty -->
+    </td>
   </tr>
 </table>
 
@@ -166,10 +156,3 @@ readme_content = """
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100" />
 </p>
-"""
-
-with open("/mnt/data/README_Alisha_Sagar.md", "w") as file:
-    file.write(readme_content)
-
-"/mnt/data/README_Alisha_Sagar.md"
-
